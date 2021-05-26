@@ -8,9 +8,9 @@ const data = {users: [
   isAdmin: true,
   isSeller: true,
       seller: {
-        name: 'Puma',
-        logo: '/images/logo1.png',
-        description: 'best seller',
+        name: 'Shubh',
+        logo: '/images/p1.jpg',
+        description: 'Shubh',
         rating: 4.5,
         numReviews: 120,
       },
