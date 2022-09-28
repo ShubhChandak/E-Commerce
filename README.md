@@ -8,8 +8,6 @@ Full stack E-commerce website
 
 ![Screenshot (1542)](https://user-images.githubusercontent.com/78915916/192858779-fa233f7a-9b22-4ef8-896f-054619e939e7.png)
 
-![Screenshot (1543)](https://user-images.githubusercontent.com/78915916/192858783-6f62e7e8-4781-4073-8777-708e7d28f21b.png)
-
 ![Screenshot (1544)](https://user-images.githubusercontent.com/78915916/192858786-6fe36c63-08f0-486f-b6df-8d3c96a63402.png)
 
 ![Screenshot (1546)](https://user-images.githubusercontent.com/78915916/192858796-cf784740-865f-482f-af1f-451c1e375deb.png)
